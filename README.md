@@ -58,7 +58,7 @@ Installation via [Composer](http://getcomposer.org/)
 License
 -------
 
-Generito is licensed under the MIT license.
+DotConfig is licensed under the MIT license.
 
 Sobit Akhmedov <sobit.akhmedov@gmail.com>
 
