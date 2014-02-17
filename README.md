@@ -45,7 +45,7 @@ Installation via [Composer](http://getcomposer.org/)
     ```json
     {
       "require" {
-        "knyga/dotconfig": "1.0"
+        "knyga/dotconfig": "1.0.*@dev"
       }
     }
     ```
